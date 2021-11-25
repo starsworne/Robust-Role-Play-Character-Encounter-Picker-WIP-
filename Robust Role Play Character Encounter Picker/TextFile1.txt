@@ -1,0 +1,28 @@
+﻿This program will have a back end list of characters.
+These characters will be tagged for player, location, organizational
+affiliation, and plot connection.
+It will then allow you to generate character combinations such that
+one character will be given for each role player in each combination.
+If you would like to limit it to a given location, organizational affiliation,
+and plot connection, you can. These options will be chooseable.
+Up to 3 character combinations will be allowed per roll.
+
+
+Example character profile:
+
+Character Number: 1
+Name: Veryn
+Role Player: Runa
+Organizational Affiliations: Any, Horde, Quel'thalas, House Sunbound, Ebon Blade, Eversong Holding
+Settings: Any, Quel'thalas, Eversong Holding, Silvermoon City
+Traveling Settings: Any, Lithelien, Adventurer
+
+
+There will also be buttons that will allow one prompt to be generated for either a plot-focused or a genre focused RP.
+
+Example return:
+
+Novareth in a Feelings RP
+Eledris in an Undead Social Justice RP
+
+To facilitate this, there will be a list of genres and a list of plots. 
